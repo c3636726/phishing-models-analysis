@@ -21,7 +21,7 @@ data <- read.csv("Phishing_Legitimate.csv")
 str(data)
 summary(data)
 
-
+# Commit test
 missing values section 
 
 # Check for missing values in each column
