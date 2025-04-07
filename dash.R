@@ -22,7 +22,7 @@ str(data)
 summary(data)
 
 
-missing valus section 
+missing values section 
 
 # Check for missing values in each column
 missing_values <- colSums(is.na(data))
